@@ -1,0 +1,28 @@
+.box{
+    color: white;
+    background: black;
+    transition: 0.3s;
+    margin: auto;
+    padding: 10px 20px;
+}
+.box:hover{
+color: black;
+background: white;
+}
+body{
+    color: #d9d9d9;
+    background-color:#284b63
+}
+.box3{
+    color: aqua;
+    background-color: blue;
+    padding: 10px 20px;
+    margin: auto;
+    transition: 0.3s;
+    border: gray;
+}
+.box3:hover{
+    color: blue;
+    background-color: aqua;
+    border: black;
+}
